@@ -22,18 +22,18 @@ author: Black Histories Edit-a-thon coordinators
 navbar-links:
   Overview: "overview"
   Join an event: "joinevents"
-    - Online kick-off event:
-    - Online Wikipedia training:
-    - Online Wikidata training:
-    - In-person @ U of T:
-    - In-person @ YorkU:
-    - In-person @ TMU:
-    - In-person @ TPL:
-  Participate now: 
-    - Overview:
-    - Training materials:
-    - Join dashboard:
-    - Tasklist:
+    - Online kick-off event: "joinevents"
+    - Online Wikipedia training: "joinevents"
+    - Online Wikidata training: "joinevents"
+    - In-person @ U of T: "joinevents"
+    - In-person @ YorkU: "joinevents"
+    - In-person @ TMU: "joinevents"
+    - In-person @ TPL: "joinevents"
+  Participate now: "participate"
+    - Overview: "participate"
+    - Training materials: "participate"
+    - Join dashboard: "participate"
+    - Tasklist: "participate"
   Impact: "impact"
   Contact us: "contact"
 
