@@ -19,9 +19,9 @@ author: Black Histories Edit-a-thon coordinators
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
-  About Me: "overview"
+  Overview: "overview"
   #Overview: "overview"
- # Join an event: "joinevents"
+  Join an event: "joinevents"
   #  - Online kick-off event: "joinevents"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
