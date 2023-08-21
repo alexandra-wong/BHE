@@ -18,29 +18,12 @@ author: Black Histories Edit-a-thon coordinators
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
 navbar-links:
-  Overview: "overview.md"
-  Join an event: "joinevents.md"
-    - Online kick-off event: "joinevents"
-    - Online Wikipedia training: "joinevents"
-    - Online Wikidata training: "joinevents"
-    - In-person @ U of T: "joinevents"
-    - In-person @ YorkU: "joinevents"
-    - In-person @ TMU: "joinevents"
-    - In-person @ TPL: "joinevents"
-  Participate now: "participate"
-    - Overview: "participate"
-    - Training materials: "participate"
-    - Join dashboard: "participate"
-    - Tasklist: "participate"
-  Impact: "impact"
-  Contact us: "contact"
-
-
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
