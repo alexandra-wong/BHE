@@ -19,7 +19,7 @@ author: Black Histories Edit-a-thon coordinators
 # --- List of links in the navigation bar --- #
 ###############################################
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Overview: "overview"
   Join an event: "joinevents"
     - Online kick-off event: "joinevents"
