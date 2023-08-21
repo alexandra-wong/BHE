@@ -20,6 +20,9 @@ author: Black Histories Edit-a-thon coordinators
 ###############################################
 navbar-links:
   About Me: "aboutme"
+  Overview: "overview"
+  Join an event: "joinevents"
+    - Online kick-off event: "joinevents"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
