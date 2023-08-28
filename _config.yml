@@ -23,6 +23,7 @@ navbar-links:
   Join an event: "joinevents"
     - Online kick-off event: "joinevents"
     - Online Wikipedia training: "joinevents"
+    - Online Wikidata training: "joinevents"
   Participate now:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
